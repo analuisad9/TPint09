@@ -1,0 +1,79 @@
+
+body {
+  background: #20002c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+.conteiner {
+  position: relative;
+  width: 70%;
+}
+
+.coll {
+  border: 0px;
+  background-color: #ffffff5e;
+}
+
+.navbar-brand {
+  font-size: 34px;
+ 
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+#navbarToggleExternalContent {
+  width: 80%;
+  font-size: 20px;
+
+}
+
+
+.color {
+  color:rgb(136, 127, 255)
+}
+
+footer {
+  background-color: rgb(221, 221, 221);
+  width: 100%;
+  height: 160px;
+}
+.foot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+ 
+
+  
+}
+.redes {
+  font-size: 23px;
+  width: 25%;
+  display: flex;
+  padding-top: 50px;
+  justify-content: center;
+}
+
+.ayuda {
+  font-size: 23px;
+  width: 25%;
+  display: flex;
+  padding-top: 50px;
+  justify-content: center;
+}
+.nosotros {
+  font-size: 23px;
+  width: 25%;
+  display: flex;
+  padding-top: 50px;
+  justify-content: center;
+}
+
+#carouselExampleIndicators {
+  width: 100%;
+  justify-content: center;
+  
+}
